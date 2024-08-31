@@ -22,6 +22,7 @@ public class AppTest100 {
         System.out.println("New line added");
         System.out.println("Branch100 1980 added New line");
         System.out.println("Sandy added a added New line");
+        System.out.println("Sandy added a added New line at 3.50 pm");
 
     }
 }
