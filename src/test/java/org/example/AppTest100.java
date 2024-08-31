@@ -19,6 +19,7 @@ public class AppTest100 {
     @Test
     public void myTest(){
         System.out.println("My First Method");
-        
+        System.out.println("New line added");
+
     }
 }
